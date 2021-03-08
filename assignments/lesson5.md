@@ -19,7 +19,7 @@
 ```
 
 ### Task 2. Редактор 1го канала
-![image](https://user-images.githubusercontent.com/19507144/110343454-17887780-805f-11eb-91c1-8a4aebe57458.png)
+![image](https://user-images.githubusercontent.com/19507144/110343454-17887780-805f-11eb-91c1-8a4aebe57458.png  =250x250)
 
 ###### 3 point
 
