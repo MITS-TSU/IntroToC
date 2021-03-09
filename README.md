@@ -8,3 +8,9 @@
 
 ## Lecture 3 - Operators
  - [Slides](https://docs.google.com/presentation/d/1JmoTV1ssTwwqC0o1NzbnSqDMNdecoWcAtSpa5XG6K-Y/edit?usp=sharing)
+
+## Lecture 4 - Conditionals
+ - [Slides](https://docs.google.com/presentation/d/1DWdSiABwKbYRUBwIm7JEGo2cyLrMs-vS0pwHGAoJwIE/edit?usp=sharing)
+
+## Lecture 5 - Loops
+ - [Slides](https://docs.google.com/presentation/d/1DWdSiABwKbYRUBwIm7JEGo2cyLrMs-vS0pwHGAoJwIE/edit)
