@@ -25,7 +25,7 @@ int main() {
     printf("variable = %d\n", variable);
 
 
-    // Чтение значений по указателю
+    // Чтение значений по указателю - разыменование.
     printf("variable = %d\n", variable);
     printf("*variable_address = %d\n", *variable_address); // читаем ячейку в памяти с адресом(номером) variable_address
     printf("variable_address = %p\n", variable_address); // выводим номер ячейки, где лежит переменная variable
