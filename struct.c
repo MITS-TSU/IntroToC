@@ -29,8 +29,9 @@ void add_to_bag(struct user* some_user, struct item some_item) {
     some_user->bag[some_user->item_counter] = some_item;
     // Если то же самое выражение написать без стрелочек:
     // (*some_user).bag[(*some_user).item_counter] = some_item;
-    //
-
+    // 
+    // Так же обратите внимание, что значение структуры копируется через равно, как обычная переменная.
+    // В ранних версиях языка приходилось копировать структуру, копируя каждую структуру.
 
     some_user->item_counter++;
 
