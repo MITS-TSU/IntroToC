@@ -38,6 +38,11 @@ void add_to_bag(struct user* some_user, struct item some_item) {
     printf("Товар %s добавлен в корзину пользователя %s\n", some_item.name, some_user->name);
 }
 
+// Функция оформления заказа.
+// - считает стоимость всей корзины
+// - проверяет, что пользователь может позволить себе эту стоимость.
+// - если да, вычитает из денег пользователя полную стоимость корзины, очищает корзину.
+// - если нет, ничего не делает -_0_0_-.
 void finish_order(struct user* some_user) {
     if (some_user->item_counter == 0) {
         printf("Корзина пользователя %s пуста:(\n", some_user->name);
